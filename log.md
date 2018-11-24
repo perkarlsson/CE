@@ -21,7 +21,7 @@ Continuing to work on WB's advanced react course. (PENDING)
 
 ## Wed 14 Nov 18
 
-Started working on Wes Bos's advanced react full stack course.
+Started working on WB's advanced react full stack course.
 
 [Log Index]
 
