@@ -2,7 +2,7 @@
 
 ## Full [Log Index]
 
-[**\*\*\*\***\*\***\*\*** 2018 Objectives **\*\***\*\***\*\*\*\***](https://github.com/pkarlsson/CE/blob/master/log.md#28-dec-17)
+[**\*\*\*\***\*\***\*\*** 2018 Objectives **\*\***\*\***\*\*\*\***](https://github.com/perkarlsson/CE/blob/master/log.md#28-dec-17)
 
 ---
 
@@ -39,4 +39,4 @@ Started log for learning. Objectives until end of 2018
 
 ---
 
-[log index]: https://github.com/pkarlsson/CE/blob/master/log-index.md#log-index
+[log index]: https://github.com/perkarlsson/CE/blob/master/log-index.md#log-index
