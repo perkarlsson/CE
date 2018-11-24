@@ -1,9 +1,5 @@
 # Learning log
 
-| Date |                                          |
-| :--: | :--------------------------------------- |
-|      | Learnt, thoughts, progress, ideas, links |
-
 ## Full [Log Index]
 
 [**\*\*\*\***\*\***\*\*** 2018 Objectives **\*\***\*\***\*\*\*\***](https://github.com/pkarlsson/CE/blob/master/log.md#28-dec-17)
