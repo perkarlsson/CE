@@ -10,7 +10,8 @@
 
 WB advanced react
 
-24 - User signup and permission flow
+24 - User Signup and Permission Flow
+25 - User Signup in React
 
 Started git tutorials for refreshers.
 
