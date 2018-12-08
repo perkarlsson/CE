@@ -8,12 +8,22 @@
 
 ---
 
-## Sat 24 Nov 18
+## Thu Dec 6 18
+
+WB advanced react
+
+21 - displaying single items
+22 - pagination
+23 - xxxx
+24 - User signup and permission flow ** stuck on end here with "password not defined" for variable.
+
+[Log Index]
+
+## Sat Nov 24 18
 
 Continuing to work on WB's advanced react course. (PENDING)
 20 - deleting items
 21 - displaying single items
-22 - pagination
 
 Add gatsby v2 learning to develop for atplgy website.
 
@@ -21,7 +31,7 @@ Add gatsby v2 learning to develop for atplgy website.
 
 ---
 
-## Wed 14 Nov 18
+## Wed Nov 14 18
 
 Started working on WB's advanced react full stack course.
 
@@ -29,7 +39,7 @@ Started working on WB's advanced react full stack course.
 
 ---
 
-## Thu 1 Nov 18
+## Thu Nov 1 18
 
 Started log for learning. Objectives until end of 2018
 
@@ -47,7 +57,7 @@ Started log for learning. Objectives until end of 2018
 
 ---
 
-## 1 Oct 18
+## Oct 1 18
 
 These are initial objectives which will be updated as new goals are set.
 
