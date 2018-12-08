@@ -12,6 +12,8 @@ WB advanced react
 
 24 - User signup and permission flow
 
+Started git tutorials for refreshers.
+
 [Log Index]
 
 ---
