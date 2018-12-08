@@ -2,7 +2,7 @@
 
 ## Full [Log Index]
 
-[**\*\*\*\***\*\***\*\*** Fall 2018 Objectives **\*\***\*\***\*\*\*\***](https://github.com/perkarlsson/CE/blob/master/log.md#1-oct-18)
+[**\*\*\*\***\*\***\*\*** Fall 2018 Objectives **\*\***\*\***\*\*\*\***](https://github.com/perkarlsson/CE/blob/master/log.md#Mon-1-oct-18)
 
 ---
 
