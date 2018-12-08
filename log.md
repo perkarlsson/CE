@@ -6,18 +6,27 @@
 
 ---
 
+## Fri Dec 7 18
+
+WB advanced react
+
+24 - User signup and permission flow
+
+[Log Index]
+
 ---
 
 ## Thu Dec 6 18
 
 WB advanced react
 
-21 - displaying single items
-22 - pagination
-23 - xxxx
-24 - User signup and permission flow ** stuck on end here with "password not defined" for variable.
+21 - Displaying single items
+22 - Pagination
+23 - Pagination and Cache Invalidation
 
 [Log Index]
+
+---
 
 ## Sat Nov 24 18
 
@@ -57,7 +66,7 @@ Started log for learning. Objectives until end of 2018
 
 ---
 
-## Oct 1 18
+## Mon Oct 1 18
 
 These are initial objectives which will be updated as new goals are set.
 
