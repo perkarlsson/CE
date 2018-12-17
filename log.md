@@ -6,12 +6,32 @@
 
 ---
 
+## Sun Dec 16 18
+
+Updated CE tracker to include full stack developer + data science goals:
+
+- Foundation (HTML and CSS)
+- JS core
+- Front-end frameworks (React, D3 etc)
+- Back-end frameworks (node.js etc)
+- General Git
+- Data science (ML etc)
+
+WB advanced react
+26 - Currently Logged In User with Middleware and Render Props
+27 - Sign in Form and Custom Error Handling
+
+[Log Index]
+
+---
+
 ## Fri Dec 7 18
 
 WB advanced react
 
 24 - User Signup and Permission Flow
 25 - User Signup in React
+26 - Currently Logged In User with Middleware and Render Props
 
 Started git tutorials for refreshers.
 
