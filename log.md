@@ -6,6 +6,20 @@
 
 ---
 
+## Wed Dec 19 18 (PENDING)
+
+Updated vscode template for logging activities.
+
+WB advanced react
+27 - Sign in Form and Custom Error Handling (confirm completion)
+28 - Sign Out Button (planned)
+
+[Log Index]
+
+---
+
+---
+
 ## Sun Dec 16 18
 
 Updated CE tracker to include full stack developer + data science goals:
