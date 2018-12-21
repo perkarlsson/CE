@@ -10,7 +10,8 @@
 
 continue WB advanced react
 28 - Sign Out Button
-29 - Backend Password Reset Flow (planned)
+29 - Backend Password Reset Flow
+30 - Frontend Password Reset Flow
 
 [Log Index]
 
