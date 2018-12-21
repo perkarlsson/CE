@@ -9,8 +9,9 @@
 ## Fri Dec 21 18
 
 continue WB advanced react
-32 - Data Relationships
-33 - Creating a Gated Sign In Component
+
+- 32 - Data Relationships
+- 33 - Creating a Gated Sign In Component
 
 [Log Index]
 
@@ -19,10 +20,11 @@ continue WB advanced react
 ## Thu Dec 20 18
 
 continue WB advanced react
-28 - Sign Out Button
-29 - Backend Password Reset Flow
-30 - Frontend Password Reset Flow
-31 - Sending Email
+
+- 28 - Sign Out Button
+- 29 - Backend Password Reset Flow
+- 30 - Frontend Password Reset Flow
+- 31 - Sending Email
 
 [Log Index]
 
