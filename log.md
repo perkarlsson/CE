@@ -6,17 +6,51 @@
 
 ---
 
-## Wed Dec 19 18 (PENDING)
+## Thu Dec 20 18
 
-Updated vscode template for logging activities.
-
-WB advanced react
-27 - Sign in Form and Custom Error Handling (confirm completion)
-28 - Sign Out Button (planned)
+continue WB advanced react
+28 - Sign Out Button
 
 [Log Index]
 
 ---
+
+## Wed Dec 19 18 (PENDING)
+
+Continuing WB advanced react course
+27 - Sign in Form and Custom Error Handling
+28 - Sign Out Button (planned)
+
+Updated vscode template for logging activities. Updated vscode.
+
+Started reviewing the React roadmap from Adam Golab's Github, and how this can be used to define my learning goals:
+https://github.com/adam-golab/react-developer-roadmap
+
+- this roadmap will help determine logical steps on what to learn next.
+
+In summary,
+
+1. Basics (HTML, CSS, JS)
+2. General development skills (including GIT)
+3. React
+4. Package managers, task runners etc
+5. Styling (CSS preprocessors, frameworks, archs, in JS)
+6. Stage management
+7. Type checkers (proptypes, typescript, flow)
+8. Form helpers
+9. Routing
+10. API clients (REST, GraphQL/Apollo)
+11. Utility libraries (lodash, moment etc)
+12. Testing (unit testing, end to end testing, integration testing)
+13. Internationalization
+14. Server side rendering (Next.js etc)
+15. Static site generator (gatsby)
+16. Backend framework integration (react on rails etc)
+17. Mobile (react native etc)
+18. Desktop (proton native, electron, react native windows)
+19. Virtual reality (react 360)
+
+[Log Index]
 
 ---
 
