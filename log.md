@@ -10,6 +10,7 @@
 
 continue WB advanced react
 32 - Data Relationships
+33 - Creating a Gated Sign In Component
 
 [Log Index]
 
