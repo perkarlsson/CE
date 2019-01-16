@@ -2,6 +2,34 @@
 
 ## Full [Log Index]
 
+[**\*\*\*\***\*\***\*\*** Spring 2019 Objectives **\*\***\*\***\*\*\*\***](https://github.com/perkarlsson/CE/blob/master/log.md#tue-jan-1-19)
+
+---
+
+## Tue Jan 15 19
+
+continue WB advanced react
+
+- 34 - Permissions Management (pending)
+
+[Log Index]
+
+---
+
+## Tue Jan 1 19
+
+These are initial objectives which will be updated as new goals are set.
+
+### JavaScript:
+
+- Complete WB's Advanced React course.
+- Go back and finish Javascript30 course.
+- Gatsby V2
+
+[Log Index]
+
+---
+
 [**\*\*\*\***\*\***\*\*** Fall 2018 Objectives **\*\***\*\***\*\*\*\***](https://github.com/perkarlsson/CE/blob/master/log.md#mon-oct-1-18)
 
 ---
@@ -33,15 +61,16 @@ continue WB advanced react
 ## Wed Dec 19 18 (PENDING)
 
 Continuing WB advanced react course
-27 - Sign in Form and Custom Error Handling
-28 - Sign Out Button (planned)
+
+- 27 - Sign in Form and Custom Error Handling
+- 28 - Sign Out Button (planned)
 
 Updated vscode template for logging activities. Updated vscode.
 
 Started reviewing the React roadmap from Adam Golab's Github, and how this can be used to define my learning goals:
 https://github.com/adam-golab/react-developer-roadmap
-
-- this roadmap will help determine logical steps on what to learn next.
+log
+loghis roadmap will help determine logical steps on what to learn next.
 
 In summary,
 
@@ -92,9 +121,9 @@ WB advanced react
 
 WB advanced react
 
-24 - User Signup and Permission Flow
-25 - User Signup in React
-26 - Currently Logged In User with Middleware and Render Props
+- 24 - User Signup and Permission Flow
+- 25 - User Signup in React
+- 26 - Currently Logged In User with Middleware and Render Props
 
 Started git tutorials for refreshers.
 
@@ -106,9 +135,9 @@ Started git tutorials for refreshers.
 
 WB advanced react
 
-21 - Displaying single items
-22 - Pagination
-23 - Pagination and Cache Invalidation
+- 21 - Displaying single items
+- 22 - Pagination
+- 23 - Pagination and Cache Invalidation
 
 [Log Index]
 
@@ -117,8 +146,9 @@ WB advanced react
 ## Sat Nov 24 18
 
 Continuing to work on WB's advanced react course. (PENDING)
-20 - deleting items
-21 - displaying single items
+
+- 20 - deleting items
+- 21 - displaying single items
 
 Add gatsby v2 learning to develop for atplgy website.
 
