@@ -10,7 +10,7 @@
 
 continue WB advanced react
 
-- 34 - Permissions Management (pending)
+- 34 - Permissions Management
 
 [Log Index]
 
