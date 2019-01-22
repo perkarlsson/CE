@@ -10,7 +10,8 @@
 
 continue WB advanced react
 
-- 35 - Updating Permissions in Local State (pending)
+- 35 - Updating Permissions in Local State
+- 36 - Updating Permissions on the Server (pending)
 
 [Log Index]
 
