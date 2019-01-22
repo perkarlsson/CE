@@ -6,6 +6,16 @@
 
 ---
 
+## Tue Jan 22 19
+
+continue WB advanced react
+
+- 35 - Updating Permissions in Local State (pending)
+
+[Log Index]
+
+---
+
 ## Sun Jan 20 19
 
 continue WB advanced react
