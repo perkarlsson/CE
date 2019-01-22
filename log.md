@@ -11,8 +11,8 @@
 continue WB advanced react
 
 - 35 - Updating Permissions in Local State
-- 36 - Updating Permissions on the Server (pending)
-
+- 36 - Updating Permissions on the Server
+- 37 - Locking Down DeleteItem Permissions (pending)
 [Log Index]
 
 ---
