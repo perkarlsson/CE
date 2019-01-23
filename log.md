@@ -14,7 +14,7 @@ continue WB advanced react
 - 36 - Updating Permissions on the Server
 - 37 - Locking Down DeleteItem Permissions
 - 38 - Creating our cart in React
-- 39 - Apollo Local State Queries and Mutations (pending)
+- 39 - Apollo Local State Queries and Mutations
 
   [Log Index]
 
