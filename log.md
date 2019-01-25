@@ -11,7 +11,7 @@
 continue WB advanced react
 
 - 40 - Server Side Add To Cart
-- 41 - Displaying Cart Items and Totals (pending)
+- 41 - Displaying Cart Items and Totals
 
   [Log Index]
 
