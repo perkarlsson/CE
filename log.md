@@ -6,6 +6,16 @@
 
 ---
 
+## Thu Jan 24 19
+
+continue WB advanced react
+
+- 40 - Server Side Add To Cart (pending)
+
+  [Log Index]
+
+---
+
 ## Tue Jan 22 19
 
 continue WB advanced react
