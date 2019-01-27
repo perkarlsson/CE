@@ -6,12 +6,23 @@
 
 ---
 
+## Sun Jan 27 19
+
+continue WB advanced react
+
+- 42 - Removing Cart Items (PENDING)
+
+  [Log Index]
+
+---
+
 ## Thu Jan 24 19
 
 continue WB advanced react
 
 - 40 - Server Side Add To Cart
 - 41 - Displaying Cart Items and Totals
+- 42 - Removing Cart Items (PENDING)
 
   [Log Index]
 
