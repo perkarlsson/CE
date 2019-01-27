@@ -10,7 +10,8 @@
 
 continue WB advanced react
 
-- 42 - Removing Cart Items (PENDING)
+- 42 - Removing Cart Items
+- 43 - Optimistic Response && Cache Updates with Apollo (PENDING)
 
   [Log Index]
 
