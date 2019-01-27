@@ -11,7 +11,8 @@
 continue WB advanced react
 
 - 42 - Removing Cart Items
-- 43 - Optimistic Response && Cache Updates with Apollo (PENDING)
+- 43 - Optimistic Response && Cache Updates with Apollo
+- 44 - Animating our Cart Count Component (PENDING)
 
   [Log Index]
 
