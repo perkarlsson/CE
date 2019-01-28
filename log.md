@@ -14,7 +14,8 @@ continue WB advanced react
 - 43 - Optimistic Response && Cache Updates with Apollo
 - 44 - Animating our Cart Count Component
 - 45 - Dealing with Deleted Items in CartItems
-- 46 - Cleaning Up This Render Prop Mess (PENDING)
+- 46 - Cleaning Up This Render Prop Mess
+- 47 - 47 - Search Dropdown Autocomplete (PENDING)
 
   [Log Index]
 
