@@ -13,7 +13,8 @@ continue WB advanced react
 - 52 - Displaying Single Orders
 - 53 - Orders Page
 - 54 - Testing with Jest and Enzyme Introduction
-- 55 - Unit Testing 101 (PENDING)
+- 55 - Unit Testing 101
+- 56 - Mocking 101
 
   [Log Index]
 
