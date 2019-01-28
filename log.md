@@ -11,7 +11,8 @@
 continue WB advanced react
 
 - 52 - Displaying Single Orders
-- 53 - Orders Page (PENDING)
+- 53 - Orders Page
+- 54 - Testing with Jest and Enzyme Introduction (PENDING)
 
   [Log Index]
 
