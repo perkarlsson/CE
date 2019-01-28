@@ -6,6 +6,17 @@
 
 ---
 
+## Mon Jan 28 19
+
+continue WB advanced react
+
+- 52 - Displaying Single Orders
+- 53 - Orders Page (PENDING)
+
+  [Log Index]
+
+---
+
 ## Sun Jan 27 19
 
 continue WB advanced react
