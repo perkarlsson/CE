@@ -16,7 +16,8 @@ continue WB advanced react
 - 45 - Dealing with Deleted Items in CartItems
 - 46 - Cleaning Up This Render Prop Mess
 - 47 - 47 - Search Dropdown Autocomplete
-- 48 - Autocomplete with Downshift (PENDING)
+- 48 - Autocomplete with Downshift
+- 49 - Credit Card Processing with Stripe Checkout (PENDING)
 
   [Log Index]
 
