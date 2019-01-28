@@ -15,7 +15,8 @@ continue WB advanced react
 - 44 - Animating our Cart Count Component
 - 45 - Dealing with Deleted Items in CartItems
 - 46 - Cleaning Up This Render Prop Mess
-- 47 - 47 - Search Dropdown Autocomplete (PENDING)
+- 47 - 47 - Search Dropdown Autocomplete
+- 48 - Autocomplete with Downshift (PENDING)
 
   [Log Index]
 
