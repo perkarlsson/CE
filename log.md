@@ -17,8 +17,9 @@ continue WB advanced react
 - 46 - Cleaning Up This Render Prop Mess
 - 47 - 47 - Search Dropdown Autocomplete
 - 48 - Autocomplete with Downshift
-- 49 - Credit Card Processing with Stripe Checkout (PENDING)
-
+- 49 - Credit Card Processing with Stripe Checkout
+- 50 - Charging Cards on the Server Side
+- 51 - Saving Orders to the Database (PENDING)
   [Log Index]
 
 ---
