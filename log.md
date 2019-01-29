@@ -10,7 +10,8 @@
 
 continue WB advanced react
 
-- 57 - First Tests and Shallow Rendering (PENDING)
+- 57 - First Tests and Shallow Rendering
+- 58 - Snapshot Testing (PENDING)
 
   [Log Index]
 
