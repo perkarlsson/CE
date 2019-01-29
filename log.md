@@ -6,6 +6,16 @@
 
 ---
 
+## Tue Jan 29 19
+
+continue WB advanced react
+
+- 57 - First Tests and Shallow Rendering (PENDING)
+
+  [Log Index]
+
+---
+
 ## Mon Jan 28 19
 
 continue WB advanced react
