@@ -11,7 +11,8 @@
 continue WB advanced react
 
 - 57 - First Tests and Shallow Rendering
-- 58 - Snapshot Testing (PENDING)
+- 58 - Snapshot Testing
+- 59 - Testing and Mocking Apollo Queries (PENDING)
 
   [Log Index]
 
