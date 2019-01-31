@@ -11,7 +11,8 @@
 
 continue WB advanced react
 
-- 61 - Testing Pagination (PENDING)
+- 61 - Testing Pagination
+- 62 - Testing Mutations (PENDING)
 
   [Log Index]
 
