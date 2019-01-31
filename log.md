@@ -4,7 +4,6 @@
 
 [**\*\*\*\***\*\***\*\*** Spring 2019 Objectives **\*\***\*\***\*\*\*\***](https://github.com/perkarlsson/CE/blob/master/log.md#tue-jan-1-19)
 
-
 ---
 
 ## Thu Jan 31 19
@@ -12,9 +11,10 @@
 continue WB advanced react
 
 - 61 - Testing Pagination
-- 62 - Testing Mutations (PENDING)
+- 62 - Testing Mutations
+- 63 - More Apollo Client Mutation Testing (PENDING)
 
-  [Log Index]
+  T[Log Index]
 
 ---
 
