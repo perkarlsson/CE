@@ -4,6 +4,17 @@
 
 [**\*\*\*\***\*\***\*\*** Spring 2019 Objectives **\*\***\*\***\*\*\*\***](https://github.com/perkarlsson/CE/blob/master/log.md#tue-jan-1-19)
 
+
+---
+
+## Thu Jan 31 19
+
+continue WB advanced react
+
+- 61 - Testing Pagination (PENDING)
+
+  [Log Index]
+
 ---
 
 ## Tue Jan 29 19
