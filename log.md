@@ -12,7 +12,7 @@ continue WB advanced react
 
 - 61 - Testing Pagination
 - 62 - Testing Mutations
-- 63 - More Apollo Client Mutation Testing (PENDING)
+- 63 - More Apollo Client Mutation Testing
 
   T[Log Index]
 
