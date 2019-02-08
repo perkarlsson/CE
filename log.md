@@ -4,14 +4,14 @@
 
 [**\*\*\*\***\*\***\*\*** Spring 2019 Objectives **\*\***\*\***\*\*\*\***](https://github.com/perkarlsson/CE/blob/master/log.md#tue-jan-1-19)
 
-
 ---
 
 ## Fri Feb 8 19
 
 continue WB advanced react
 
-- 64 - Testing our Cart (PENDING)
+- 64 - Testing our Cart
+- 65 - Testing Order Components (PENDING)
 
   [Log Index]
 
