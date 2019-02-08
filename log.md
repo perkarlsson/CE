@@ -11,7 +11,7 @@
 continue WB advanced react
 
 - 64 - Testing our Cart
-- 65 - Testing Order Components (PENDING)
+- 65 - Testing Order Components
 
   [Log Index]
 
